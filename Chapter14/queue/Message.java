@@ -1,0 +1,14 @@
+package queue;
+
+public class Message {
+
+    public String Command;
+
+    public String to;
+
+    public Message(String command, String to) {
+        Command = command;
+        this.to = to;
+    }
+    
+}

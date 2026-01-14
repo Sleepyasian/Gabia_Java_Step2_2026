@@ -1,0 +1,22 @@
+{
+    "java.project.sourcePaths": [
+        "Chapter15/hashmap",
+        "Chapter14/Vector",
+        "Chapter14/Stack",
+        "Chapter14/LinkedList",
+        "Chapter14/ArrayList",
+        "Chapter14",
+        "Chapter13",
+        "Chapter12/wrapper",
+        "Chapter12/string",
+        "Chapter12/hashcode",
+        "Chapter12/clone",
+        "Chapter11",
+        "Chapter10/Chapter10.MultiInterface",
+        "Chapter10/Chapter10.Interface",
+        "Chapter09",
+        "Chapter08",
+        "Chapter07",
+        "Chapter15/treemap"
+    ]
+}

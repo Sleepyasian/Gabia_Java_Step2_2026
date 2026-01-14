@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TreeMapEmployeeMain_03",
+            "request": "launch",
+            "mainClass": "TreeMapEmployeeMain_03",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "TreeMapComparator",
+            "request": "launch",
+            "mainClass": "TreeMapComparator",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "TreeMapStudentScoreMain",
+            "request": "launch",
+            "mainClass": "TreeMapStudentScoreMain",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "MemberHashMapMain_06",
+            "request": "launch",
+            "mainClass": "MemberHashMapMain_06",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "MapDifference_05",
+            "request": "launch",
+            "mainClass": "MapDifference_05",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "MapDifference_04",
+            "request": "launch",
+            "mainClass": "MapDifference_04",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "MapDifference_03",
+            "request": "launch",
+            "mainClass": "MapDifference_03",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "HashMapMain_02",
+            "request": "launch",
+            "mainClass": "HashMapMain_02",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "HashMapMain_01",
+            "request": "launch",
+            "mainClass": "HashMapMain_01",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeMain_04",
+            "request": "launch",
+            "mainClass": "treeset.EmployeeMain_04",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "ComparableStudentMain_03",
+            "request": "launch",
+            "mainClass": "treeset.ComparableStudentMain_03",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "TreeSetMain_02",
+            "request": "launch",
+            "mainClass": "treeset.TreeSetMain_02",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "TreeSetMain_01",
+            "request": "launch",
+            "mainClass": "treeset.TreeSetMain_01",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "MessageMain_02",
+            "request": "launch",
+            "mainClass": "queue.MessageMain_02",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "MyQueue",
+            "request": "launch",
+            "mainClass": "queue.MyQueue",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "QueueMain_01",
+            "request": "launch",
+            "mainClass": "queue.QueueMain_01",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "SoldeskMemberMain_03",
+            "request": "launch",
+            "mainClass": "hashset.SoldeskMemberMain_03",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
