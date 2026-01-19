@@ -1,5 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "Chapter19",
+        "Chapter18",
+        "Chapter15/treemap",
         "Chapter15/hashmap",
         "Chapter14/Vector",
         "Chapter14/Stack",
@@ -17,6 +20,6 @@
         "Chapter09",
         "Chapter08",
         "Chapter07",
-        "Chapter15/treemap"
+        "Chapter20"
     ]
 }

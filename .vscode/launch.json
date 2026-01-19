@@ -6,6 +6,251 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UserMain_06",
+            "request": "launch",
+            "mainClass": "UserMain_06",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "UserSelect_05",
+            "request": "launch",
+            "mainClass": "UserSelect_05",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "UserDelete_04",
+            "request": "launch",
+            "mainClass": "UserDelete_04",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "UserUpdate_03",
+            "request": "launch",
+            "mainClass": "UserUpdate_03",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "UserAdd_02",
+            "request": "launch",
+            "mainClass": "UserAdd_02",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "Connection_01",
+            "request": "launch",
+            "mainClass": "Connection_01",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "Thread_Runnable_07",
+            "request": "launch",
+            "mainClass": "Thread_Runnable_07",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "ThreadMultiMain_06",
+            "request": "launch",
+            "mainClass": "ThreadMultiMain_06",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "Thread_04",
+            "request": "launch",
+            "mainClass": "Thread_04",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "Thread_03",
+            "request": "launch",
+            "mainClass": "Thread_03",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "ThreadMain_02",
+            "request": "launch",
+            "mainClass": "ThreadMain_02",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "ThreadMain_01",
+            "request": "launch",
+            "mainClass": "ThreadMain_01",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "StreamOperationMain_05",
+            "request": "launch",
+            "mainClass": "stream.StreamOperationMain_05",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "StreawmOperationMain_04",
+            "request": "launch",
+            "mainClass": "stream.StreawmOperationMain_04",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "StreamOperationMain_03",
+            "request": "launch",
+            "mainClass": "stream.StreamOperationMain_03",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "StreamOperationMain_02",
+            "request": "launch",
+            "mainClass": "stream.StreamOperationMain_02",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "StreamMain_01",
+            "request": "launch",
+            "mainClass": "stream.StreamMain_01",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "Quiz",
+            "request": "launch",
+            "mainClass": "Quiz",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "LambdaMain_05",
+            "request": "launch",
+            "mainClass": "LambdaMain_05",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "StringConCatImpleMain_04",
+            "request": "launch",
+            "mainClass": "StringConCatImpleMain_04",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "LambdaMain_03",
+            "request": "launch",
+            "mainClass": "LambdaMain_03",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "MyNumberMain_02",
+            "request": "launch",
+            "mainClass": "MyNumberMain_02",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "ObjectOutputStream_10",
+            "request": "launch",
+            "mainClass": "ObjectOutputStream_10",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "DataOutputStream_09",
+            "request": "launch",
+            "mainClass": "DataOutputStream_09",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "FileCopyMain_08",
+            "request": "launch",
+            "mainClass": "FileCopyMain_08",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "FileCopyMain_07",
+            "request": "launch",
+            "mainClass": "FileCopyMain_07",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "FileIOStreamMain_06",
+            "request": "launch",
+            "mainClass": "FileIOStreamMain_06",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "FileOutputStreamMain_05",
+            "request": "launch",
+            "mainClass": "FileOutputStreamMain_05",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "FileOutputStreamMain_04",
+            "request": "launch",
+            "mainClass": "FileOutputStreamMain_04",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "BufferedReaderWriterMain_03",
+            "request": "launch",
+            "mainClass": "BufferedReaderWriterMain_03",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "ReadFromMain_02",
+            "request": "launch",
+            "mainClass": "ReadFromMain_02",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "WriteToFile_01",
+            "request": "launch",
+            "mainClass": "WriteToFile_01",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "ThrowMain_04",
+            "request": "launch",
+            "mainClass": "ThrowMain_04",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionMain_03",
+            "request": "launch",
+            "mainClass": "ExceptionMain_03",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionMain_01",
+            "request": "launch",
+            "mainClass": "ExceptionMain_01",
+            "projectName": "JAVA_STEP2_44c55ff7"
+        },
+        {
+            "type": "java",
             "name": "TreeMapEmployeeMain_03",
             "request": "launch",
             "mainClass": "TreeMapEmployeeMain_03",
